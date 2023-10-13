@@ -151,7 +151,7 @@ main .container{
     padding: 20px;
     border-radius: 3px;
 }
-
+/* a modifier */
 .pImg{
     width: 120px;
     aspect-ratio: 1;
